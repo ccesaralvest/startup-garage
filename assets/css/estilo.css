@@ -1,0 +1,123 @@
+/* Geral ============================================== */
+h1 {
+    margin-bottom: 25px;
+}
+.page-header {
+    border-bottom: none;
+}
+/* Titulos H1 ==================== */
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 4em;
+}
+
+
+
+/* Barra de menus ================= */
+.navbar-inverse .navbar-nav li a:hover {
+    padding-bottom: 7px;
+    border-bottom: solid 1px; ;
+}
+
+.navbar-inverse .navbar-brand:hover {
+    color: #3d93a6;
+}
+.navbar a {
+    font-family: 'Cinzel', serif;
+}
+
+
+/* Header ========================= */
+
+header{
+	background-image: url(../image/back-header-3.jpg);
+    color: white;
+    text-shadow:#000 1px -1px 2px, #000 -1px 1px 2px, #000 1px 1px 2px, #000 -1px -1px 2px;
+    font-family: 'Playball', cursive;
+    background-position: center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+header .intro-texto {
+	padding-top: 100px;
+	padding-bottom: 80px;
+    
+}
+
+header .intro-text .intro {
+    padding-bottom: 55px;
+    /*font-family: 'Playball', cursive;*/
+    font-family: 'Oswald', sans-serif;
+    font-size: 4em;
+    line-height: 1em;
+}
+
+header .intro-text .intro-id {
+    font-size: 50px; 
+}
+
+/* Sobre ============================================*/
+.sobre img {
+    margin-bottom: 0px;
+}
+
+.sobre h4 {
+     font-family: 'Josefin Sans', sans-serif;
+     font-size: 1.8em;
+     font-weight: 400;
+     margin-bottom: 100px;
+}
+
+/* O que Fazemos ================================== */
+
+.fazemos {
+    background-color: #f7f7f7;
+}
+.fazemos .page-header {
+    border-bottom: none;
+}
+
+.fazemos .section {
+     font-family: 'Josefin Sans', sans-serif;
+     font-size: 1.4em;
+     font-weight: 400;
+     margin-bottom: 100px;
+}
+
+/* Time ============================================*/
+.time h4 {
+    font-family: 'Rock Salt', cursive;
+    font-size: 20px;
+    font-weight: 5;
+    color: 
+}
+
+.time {
+    background-color: #f7f7f7;
+
+
+}
+.time p {
+    margin-bottom: 100px;
+}
+
+/* Portifólio ====================================== */
+.portifolio h4{
+    margin-bottom: 100px;
+}
+
+/* Footer ========================================== */
+footer {
+    background-color: #403F3F; 
+    color: white;
+    font-weight: 500;
+}
+footer p {
+    margin-top: 5px;
+}
+
+
